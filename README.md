@@ -1,2 +1,3 @@
-# React_practise
-React_practise
+# React Practise
+
+Personal React practise Repo
